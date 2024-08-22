@@ -14,7 +14,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 from webdriver_manager.chrome import ChromeDriverManager
 
-st.title("🎈 My new app")
 ################################################################### PACKAGES
 
 # Configure the page
