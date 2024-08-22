@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import os
 import glob
-from pywin32 import pythoncom
+from win32com.client import pythoncom
 from st_aggrid import AgGrid
 from win32com.client import Dispatch
 from io import BytesIO
